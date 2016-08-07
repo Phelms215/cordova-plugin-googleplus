@@ -1,3 +1,4 @@
+#import <Cordova/CDV.h>
 #import <Cordova/CDVPlugin.h>
 #import <GoogleSignIn/GoogleSignIn.h>
 #import <FBSDKCoreKit/FBSDKCoreKit.h>
